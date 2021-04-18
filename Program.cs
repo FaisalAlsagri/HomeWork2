@@ -37,6 +37,6 @@ namespace HomeWork2
             {
                 return this.quot;
             }
-        }
+        } 
     }
 }
